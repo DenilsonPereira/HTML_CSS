@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video em HTML</title>
+</head>
+<body>
+    <h1>Inserindo video hospedados localmente</h1>
+    <p>Este video está hospedado em meu próprio servidor.</p>
+    <video width="560px" poster="imagens/limoes-capa.png" controls autoplay loop>
+        <source src="midia/video.ogv" type="video/ogg">
+        <source src="midia/video.webm" type="video/webm">
+        <source src="midia/video.m4v" type="video/mp4">
+        <source src="midia/video.mp4" type="video/mp4">
+        <p>Seu navegador não tem compatibilidade com reprodução de video, faça o download do video para assistir em seu dispositivo<a href="midia/video.mp4" download="video.mp4" type="video/mp4">Download</a></p>
+    </video>
+
+    <h1>Inserindo video de servidor externo: Youtube</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/eYGjnuK8nYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <h1>Inserindo video de servidor externo: Vimeo</h1>
+    <iframe src="https://player.vimeo.com/video/625533309?h=5db67f5df4&color=ff9933&portrait=0" width="560" height="374" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>
