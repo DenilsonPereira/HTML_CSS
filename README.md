@@ -3,13 +3,14 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar os arquivos dos repositórios!
 
-<h1>Projetos Curso em Vídeo</h1>
-<ul>
-    <li><a href="https://denilsonpereira.github.io/projeto-android/">Projeto Android</a>
-    <li><a href="https://denilsonpereira.github.io/projeto-cordel/">Projeto Cordel</a>
-</ul>
+# Projetos Curso em Vídeo
 
-<h1>Exercícios</h1>
+    *[Projeto Android](https://denilsonpereira.github.io/projeto-android/)
+    *[Projeto Cordel](https://denilsonpereira.github.io/projeto-cordel/)
+    
+
+
+# Exercícios
 <ul>
     <li><a href="https://denilsonpereira.github.io/HTML_CSS/exercicios/ex001/index.html" target="_blank"> Exercício 1</a> 
     <li><a href="https://denilsonpereira.github.io/HTML_CSS/exercicios/ex002/index.html" target="_blank"> Exercício 2</a> 
@@ -31,6 +32,5 @@ Estou aprendendo a criar sites e agora vou gerenciar os arquivos dos repositóri
     <li><a href="https://denilsonpereira.github.io/HTML_CSS/exercicios/ex0018/fonte01.html" target="_blank"> Exercício 18</a>
     <li><a href="https://denilsonpereira.github.io/HTML_CSS/exercicios/ex0019/seletor01.html" target="_blank"> Exercício 19</a>
     <li><a href="https://denilsonpereira.github.io/HTML_CSS/exercicios/ex0020/links.html" target="_blank"> Exercício 20</a>
-    <li><a href="https://denilsonpereira.github.io/HTML_CSS/exercicios/ex009/caixa01.html" target="_blank"> Exercício 21</a>
-    <li><a href="https://denilsonpereira.github.io/HTML_CSS/exercicios/ex009/fundo01.html" target="_blank"> Exercício 22</a>
-</ul>
+    <li><a href="https://denilsonpereira.github.io/HTML_CSS/exercicios/ex0021/caixa01.html" target="_blank"> Exercício 21</a>
+    <li><a href="https://denilsonpereira.github.io/HTML_CSS/exercicios/ex0022/fundo01.html" target="_blank"> Exercício 22</a>
