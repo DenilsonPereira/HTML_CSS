@@ -3,14 +3,10 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar os arquivos dos repositórios!
 
-# Projetos Curso em Vídeo
+# Projetos e exercícios do Curso em Vídeo
 <ul>
     <li><a href="https://denilsonpereira.github.io/projeto-android/">Projeto Android</a>
-    <li><a href="https://denilsonpereira.github.io/projeto-cordel/">Projeto Cordel</a>
-
-
-# Exercícios
-<ul>
+    <li><a href="https://denilsonpereira.github.io/projeto-cordel/">Projeto Cordel</a><br>
     <li><a href="https://denilsonpereira.github.io/HTML_CSS/exercicios/ex001/index.html" target="_blank"> Exercício 1</a> 
     <li><a href="https://denilsonpereira.github.io/HTML_CSS/exercicios/ex002/index.html" target="_blank"> Exercício 2</a> 
     <li><a href="https://denilsonpereira.github.io/HTML_CSS/exercicios/ex003/index.html" target="_blank"> Exercício 3</a> 
