@@ -29,4 +29,4 @@ Estou aprendendo a criar sites e agora vou gerenciar os arquivos dos repositóri
     <li><a href="https://denilsonpereira.github.io/html-css/exercicios/ex0020/links.html" target="_blank"> Exercício 20</a>
     <li><a href="https://denilsonpereira.github.io/html-css/exercicios/ex0021/caixa01.html" target="_blank"> Exercício 21</a>
     <li><a href="https://denilsonpereira.github.io/html-css/exercicios/ex0022/fundo001.html" target="_blank"> Exercício 22</a>
-    <li><a href="https://denilsonpereira.github.io/html-css/exercicios/ex0022/tabela002.html" target="_blank"> Exercício 23</a>
+    <li><a href="https://denilsonpereira.github.io/html-css/exercicios/ex0023/tabela002.html" target="_blank"> Exercício 23</a>
