@@ -3,6 +3,9 @@
 
 Aprendendo a criar sites e gerenciar os arquivos do repositório!
 
+![Logo JavaScript](imagens/html5.png)
+![Logo JavaScript](imagens/css3.png)
+
 # Projetos e exercícios do Curso em Vídeo
 <ul>
     <li><a href="https://denilsonpereira.github.io/projeto-android/">Projeto Android</a>
