@@ -3,8 +3,8 @@
 
 Aprendendo a criar sites e gerenciar os arquivos do repositório!
 
-![Logo JavaScript](imagens/html5.png)
-![Logo JavaScript](imagens/css3.png)
+![Logo HTML 5](imagens/html5.png)
+![Logo CSS 3](imagens/css3.png)
 
 # Projetos e exercícios do Curso em Vídeo
 <ul>
