@@ -1,7 +1,7 @@
-# HTML_CSS
+# HTML & CSS
  Curso de HTML e CSS, do curso em video
 
-Estou aprendendo a criar sites e agora vou gerenciar os arquivos dos repositórios!
+Aprendendo a criar sites e gerenciar os arquivos do repositório!
 
 # Projetos e exercícios do Curso em Vídeo
 <ul>
